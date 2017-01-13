@@ -69,7 +69,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1149709048419834}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 3.67, z: -2.01}
+  m_LocalPosition: {x: 0, y: 13.7, z: -13}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4098163166394838}
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _rotateAmount: 200
-  _zoomAmount: 5
+  _zoomAmount: 20
   _camera: {fileID: 20727679587573480}
 --- !u!124 &124011752899330808
 Behaviour:
