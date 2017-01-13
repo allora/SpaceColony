@@ -19,6 +19,12 @@ ExportedObj/
 *.booproj
 *.svd
 
+# Windows BS stuff we dont need
+desktop.ini
+desktop.ini.meta
+thumbs.db
+thumbs.db.meta
+
 
 # Unity3D generated meta files
 *.pidb.meta
